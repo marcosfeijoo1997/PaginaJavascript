@@ -1,0 +1,35 @@
+.input {
+
+    width: 400px;
+    height: 75px;
+}
+.calcular {
+    
+    position:absolute;
+
+}
+.termino {
+    position:absolute;
+    height: 50px;
+      left: 60%;
+      top:0%;
+      width: 400px;
+      background-color: rgb(114, 217, 246);
+    
+}
+.buscarimg
+
+{
+    position: absolute;
+  left: 90%;
+  top: 0%
+}
+
+.card {
+  float: left;
+}
+.card img{
+  width: 300px;
+float:left;
+height: 200px;
+}
